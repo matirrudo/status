@@ -22,10 +22,10 @@
     "url": "https://www.quirogaladrillos.com.ar/",
     "icon": "https://favicons.githubusercontent.com/www.quirogaladrillos.com.ar",
     "slug": "quiroga-ladrillos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
@@ -33,17 +33,19 @@
     "timeWeek": 485,
     "timeMonth": 433,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 1
+    }
   },
   {
     "name": "DevWost",
     "url": "https://game.quirogaladrillos.com.ar/",
     "icon": "https://favicons.githubusercontent.com/game.quirogaladrillos.com.ar",
     "slug": "dev-wost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
@@ -51,16 +53,18 @@
     "timeWeek": 336,
     "timeMonth": 286,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 1
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://matias.quirogaladrillos.com.ar/",
     "icon": "https://favicons.githubusercontent.com/matias.quirogaladrillos.com.ar",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 375,
     "timeMonth": 304,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 0
+    }
   },
   {
     "name": "Test Broken Site",
