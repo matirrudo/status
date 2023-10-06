@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 87,
-    "timeWeek": 185,
-    "timeMonth": 145,
+    "timeDay": 75,
+    "timeWeek": 168,
+    "timeMonth": 143,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quirogaladrillos.com.ar.ico",
     "slug": "quiroga-ladrillos",
     "status": "down",
-    "uptime": "33.28%",
+    "uptime": "33.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 45,
+      "2023-10-06": 45,
+      "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -397,8 +398,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440
+      "2022-10-07": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.quirogaladrillos.com.ar.ico",
     "slug": "dev-wost",
     "status": "down",
-    "uptime": "33.28%",
+    "uptime": "33.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 271,
+    "time": 273,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 46,
+      "2023-10-06": 45,
+      "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -781,8 +782,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440
+      "2022-10-07": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matias.quirogaladrillos.com.ar.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "33.28%",
+    "uptime": "33.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 46,
+      "2023-10-06": 45,
+      "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -1165,8 +1166,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440
+      "2022-10-07": 1440
     }
   },
   {
