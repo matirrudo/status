@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 67,
-    "timeWeek": 76,
-    "timeMonth": 88,
-    "timeYear": 107,
+    "timeDay": 156,
+    "timeWeek": 89,
+    "timeMonth": 90,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quirogaladrillos.com.ar.ico",
     "slug": "quiroga-ladrillos",
     "status": "down",
-    "uptime": "28.00%",
+    "uptime": "27.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 49,
+      "2024-01-29": 47,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -397,8 +398,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.quirogaladrillos.com.ar.ico",
     "slug": "dev-wost",
     "status": "down",
-    "uptime": "28.00%",
+    "uptime": "27.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 49,
+      "2024-01-29": 47,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -781,8 +782,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matias.quirogaladrillos.com.ar.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "28.00%",
+    "uptime": "27.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 49,
+      "2024-01-29": 47,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1165,8 +1166,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
