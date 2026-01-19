@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 238,
+    "timeDay": 229,
     "timeWeek": 139,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2026-01-18": 17,
@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quirogaladrillos.com.ar.ico",
     "slug": "quiroga-ladrillos",
     "status": "down",
-    "uptime": "14.04%",
+    "uptime": "14.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -42,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-18": 430,
+      "2026-01-19": 83,
+      "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
@@ -405,8 +406,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 1440,
-      "2025-01-19": 1440
+      "2025-01-20": 1440
     }
   },
   {
@@ -415,7 +415,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.quirogaladrillos.com.ar.ico",
     "slug": "dev-wost",
     "status": "down",
-    "uptime": "14.04%",
+    "uptime": "14.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -426,7 +426,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-18": 430,
+      "2026-01-19": 83,
+      "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
@@ -789,8 +790,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 1440,
-      "2025-01-19": 1440
+      "2025-01-20": 1440
     }
   },
   {
@@ -799,7 +799,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matias.quirogaladrillos.com.ar.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "14.04%",
+    "uptime": "14.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -810,7 +810,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-18": 430,
+      "2026-01-19": 83,
+      "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
@@ -1173,8 +1174,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 1440,
-      "2025-01-19": 1440
+      "2025-01-20": 1440
     }
   },
   {
